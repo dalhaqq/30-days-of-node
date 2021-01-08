@@ -1,1 +1,1 @@
-Written synchronouslyThis data will be appended asynchronously
+Written synchronouslyThis data will be appended asynchronouslyThis is appended synchronously
