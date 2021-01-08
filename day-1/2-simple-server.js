@@ -1,4 +1,5 @@
 //day1/simple-server.js
+
 var http = require('http');
 
 var host = '127.0.0.1';
